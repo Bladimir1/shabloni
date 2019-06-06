@@ -1,0 +1,27 @@
+.main{
+	height: 600px;
+	display: flex;
+}
+.column{
+	width: 150px;
+	margin-left: 100px;
+	margin-top: 100px;
+	text-align: center;
+	font-family: Arial;
+}
+.img{
+	height: 150px;
+
+	
+}
+h3{
+	color: grey;
+	margin-top: 10%;
+	font-size: 18px;
+	font-weight: 100px;
+}
+p{
+	color: red;
+	font-size: 20px;
+	font-family: Arial;
+}
